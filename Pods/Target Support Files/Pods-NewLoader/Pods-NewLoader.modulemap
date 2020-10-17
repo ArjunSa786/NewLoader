@@ -1,0 +1,6 @@
+framework module Pods_NewLoader {
+  umbrella header "Pods-NewLoader-umbrella.h"
+
+  export *
+  module * { export * }
+}
